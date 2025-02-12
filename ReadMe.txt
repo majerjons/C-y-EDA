@@ -10,4 +10,8 @@ Proyecto_1: Se da el analogo de printf y getchar, siendo estos: cout y cin. Apar
 
 Proyecto_2: Se da el tema de strings, sobrecarga y se explica de forma detallada el tema de encapsulamiento de namespace
 
-Proyecto_3: Nuestro primer objeto, el analogo a los structs de C pero mas completo. Se ven l que son metodos(funciones dentro del objeto, propias), el tema del scope dentro los campos/datos/variables del objeto, asi como el metodo constructor que sirve para inicializarlo.
+Proyecto_3: Nuestro primer objeto, el analogo a los structs de C pero mas completo. Se ven lo que son metodos(funciones dentro del objeto, propias), el tema del scope dentro los campos/datos/variables del objeto, asi como el metodo constructor que sirve para inicializarlo.
+
+Proyecto_4: Objetos dinamicos, arreglos de objetos dinamicos, iteradores, etc.
+
+Proyecto_5: COntenedores de STL, se empieza a ver estructuras de datos.
