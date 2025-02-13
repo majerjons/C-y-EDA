@@ -12,6 +12,6 @@ Proyecto_2: Se da el tema de strings, sobrecarga y se explica de forma detallada
 
 Proyecto_3: Nuestro primer objeto, el analogo a los structs de C pero mas completo. Se ven lo que son metodos(funciones dentro del objeto, propias), el tema del scope dentro los campos/datos/variables del objeto, asi como el metodo constructor que sirve para inicializarlo.
 
-Proyecto_4: Objetos dinamicos, arreglos de objetos dinamicos, iteradores, etc.
+Proyecto_4: Objetos dinamicos, arreglos de objetos dinamicos, etc.
 
-Proyecto_5: COntenedores de STL, se empieza a ver estructuras de datos.
+Proyecto_5: Contenedores de STL, se empieza a ver estructuras de datos y iteradores.

@@ -1,0 +1,6 @@
+Instrucciones de git:
+git add .
+git commit -m "mensaje del commit"
+git push origin master
+
+Cambiar master por la rama que tengas principal en tu repositorio remoto

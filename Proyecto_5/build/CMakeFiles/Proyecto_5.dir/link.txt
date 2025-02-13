@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Proyecto_5.dir/main.cpp.o CMakeFiles/Proyecto_5.dir/src/libros.cpp.o -o Proyecto_5 
