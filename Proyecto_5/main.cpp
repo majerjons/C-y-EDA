@@ -38,7 +38,7 @@ int main (void)
     librosMap.emplace("Javi", libro2);
     librosMap.emplace("Nashe", libro3);
     librosMap.emplace("Lol", libro4);
-    librosMap.emplace("Hit", libro5);
+    librosMap.emplace("Hitler", libro5);    //Es humor negro, si no te la bancas comeme los 2 huevos pa
 
     //Imprimo los datos accediendo a mis estructuras de estos:
     for (auto it = librosVector.begin(); it != librosVector.end(); ++it)

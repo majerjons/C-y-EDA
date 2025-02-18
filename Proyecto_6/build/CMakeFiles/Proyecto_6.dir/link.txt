@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Proyecto_6.dir/main.cpp.o CMakeFiles/Proyecto_6.dir/src/LinkedList.cpp.o CMakeFiles/Proyecto_6.dir/src/BinaryTree.cpp.o -o Proyecto_6 

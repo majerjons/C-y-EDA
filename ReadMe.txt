@@ -15,3 +15,5 @@ Proyecto_3: Nuestro primer objeto, el analogo a los structs de C pero mas comple
 Proyecto_4: Objetos dinamicos, arreglos de objetos dinamicos, etc.
 
 Proyecto_5: Contenedores de STL, se empieza a ver estructuras de datos y iteradores.
+
+Proyecto_6: Introduccion a las listas enlazas y los arboles binarios de busqueda.

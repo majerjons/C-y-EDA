@@ -1,0 +1,3 @@
+/home/lucas/Desktop/EDA/Proyecto_6/build/CMakeFiles/Proyecto_6.dir
+/home/lucas/Desktop/EDA/Proyecto_6/build/CMakeFiles/edit_cache.dir
+/home/lucas/Desktop/EDA/Proyecto_6/build/CMakeFiles/rebuild_cache.dir
