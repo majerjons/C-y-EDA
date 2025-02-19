@@ -16,4 +16,6 @@ Proyecto_4: Objetos dinamicos, arreglos de objetos dinamicos, etc.
 
 Proyecto_5: Contenedores de STL, se empieza a ver estructuras de datos y iteradores.
 
-Proyecto_6: Introduccion a las listas enlazas y los arboles binarios de busqueda.
+Proyecto_6: Introduccion a las listas enlazas y los arboles binarios de busqueda. (arboles AVL no se ven, ya que son muy complejos de programar)
+
+Proyecto_7: Se ven grafos pesados, se utilizan Dijkstra y se imprimen matriz de adyacencia y lista de adyacencia.
