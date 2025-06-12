@@ -1,0 +1,6 @@
+C:/Users/lucas/Desktop/eda_plagio_group_4/eda_plagio_group_4/out/build/x64-debug/CMakeFiles/EDARut.dir
+C:/Users/lucas/Desktop/eda_plagio_group_4/eda_plagio_group_4/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/lucas/Desktop/eda_plagio_group_4/eda_plagio_group_4/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/lucas/Desktop/eda_plagio_group_4/eda_plagio_group_4/out/build/x64-debug/eda_plagio_group_4/CMakeFiles/eda_plagio_group_4.dir
+C:/Users/lucas/Desktop/eda_plagio_group_4/eda_plagio_group_4/out/build/x64-debug/eda_plagio_group_4/CMakeFiles/edit_cache.dir
+C:/Users/lucas/Desktop/eda_plagio_group_4/eda_plagio_group_4/out/build/x64-debug/eda_plagio_group_4/CMakeFiles/rebuild_cache.dir
