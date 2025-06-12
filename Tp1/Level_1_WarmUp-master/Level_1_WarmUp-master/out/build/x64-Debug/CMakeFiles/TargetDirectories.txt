@@ -1,0 +1,3 @@
+C:/Users/lucas/Desktop/Estructura de datos y algoritmos TPs(C++)/Tp1/Level_1_WarmUp-master/Level_1_WarmUp-master/out/build/x64-Debug/CMakeFiles/orbitalsim.dir
+C:/Users/lucas/Desktop/Estructura de datos y algoritmos TPs(C++)/Tp1/Level_1_WarmUp-master/Level_1_WarmUp-master/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/lucas/Desktop/Estructura de datos y algoritmos TPs(C++)/Tp1/Level_1_WarmUp-master/Level_1_WarmUp-master/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
